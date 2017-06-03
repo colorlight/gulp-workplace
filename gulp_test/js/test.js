@@ -1,0 +1,3 @@
+function kik(){
+	console.log();
+}
