@@ -1,0 +1,22 @@
+{
+  "name": "gulp_bower",
+  "homepage": "https://github.com/colorlight/gulp-workplace",
+  "authors": [
+    "colorlight <colorlightleecaa@gmail.com>"
+  ],
+  "description": "bower test",
+  "main": "",
+  "keywords": [
+    "bower",
+    "test"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor/bower_dl",
+    "test",
+    "tests"
+  ]
+}
